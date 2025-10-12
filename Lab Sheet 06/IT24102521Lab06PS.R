@@ -1,4 +1,4 @@
-setwd("C:\\Users\\USER\\OneDrive\\Desktop\\IT24102440")
+setwd("C:\\Users\\USER\\OneDrive\\Desktop\\IT24102521")
 getwd()
 
 #1)
@@ -11,3 +11,4 @@ getwd()
 #ii. Possion distribution.
 #iii. 
 dpois(15,12)
+
